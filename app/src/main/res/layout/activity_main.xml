@@ -14,7 +14,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Make everyday decisions easier!"
+        android:text="@string/make_everyday_decisions_easier1"
         android:textSize="24sp"
         android:textColor="@color/tertiary"
         android:layout_alignParentTop="true"
@@ -30,7 +30,7 @@
         style="@style/Widget.AppCompat.Button.Colored"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Ask"
+        android:text="@string/ask1"
         android:id="@+id/askButton"
         android:textColor="#ffffff"
         android:layout_alignParentBottom="true"
@@ -48,5 +48,6 @@
         android:id="@+id/eightBallIV"
         android:src="@drawable/ball1"
         android:layout_centerVertical="true"
-        android:layout_centerHorizontal="true" />
+        android:layout_centerHorizontal="true"
+        android:contentDescription="@string/make_everyday_decisions_easier"/>
 </RelativeLayout>

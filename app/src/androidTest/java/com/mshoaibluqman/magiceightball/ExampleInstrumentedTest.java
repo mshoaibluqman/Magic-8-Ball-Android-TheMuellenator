@@ -1,4 +1,4 @@
-package com.londonappbrewery.magiceightball;
+package com.mshoaibluqman.magiceightball;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

@@ -1,4 +1,4 @@
-package com.londonappbrewery.magiceightball;
+package com.mshoaibluqman.magiceightball;
 
 import org.junit.Test;
 
